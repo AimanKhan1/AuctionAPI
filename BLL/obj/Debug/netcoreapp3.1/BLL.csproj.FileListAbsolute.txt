@@ -1,0 +1,14 @@
+D:\Scopic\AuctionAPI\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+D:\Scopic\AuctionAPI\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+D:\Scopic\AuctionAPI\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+D:\Scopic\AuctionAPI\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\Scopic\AuctionAPI\BLL\bin\Debug\netcoreapp3.1\DTO.dll
+D:\Scopic\AuctionAPI\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\Scopic\AuctionAPI\BLL\bin\Debug\netcoreapp3.1\DTO.pdb
+D:\Scopic\AuctionAPI\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.AssemblyReference.cache
+D:\Scopic\AuctionAPI\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+D:\Scopic\AuctionAPI\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+D:\Scopic\AuctionAPI\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+D:\Scopic\AuctionAPI\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+D:\Scopic\AuctionAPI\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+D:\Scopic\AuctionAPI\BLL\obj\Debug\netcoreapp3.1\BLL.pdb

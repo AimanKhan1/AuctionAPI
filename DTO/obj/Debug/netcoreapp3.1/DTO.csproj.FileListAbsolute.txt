@@ -1,0 +1,9 @@
+D:\Scopic\AuctionAPI\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+D:\Scopic\AuctionAPI\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+D:\Scopic\AuctionAPI\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+D:\Scopic\AuctionAPI\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.AssemblyReference.cache
+D:\Scopic\AuctionAPI\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+D:\Scopic\AuctionAPI\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+D:\Scopic\AuctionAPI\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+D:\Scopic\AuctionAPI\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+D:\Scopic\AuctionAPI\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
